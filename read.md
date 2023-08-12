@@ -4,7 +4,7 @@
 
 Project Architecture : 
 
-
+![Screenshot 2023-08-12 at 3 18 11 PM](https://github.com/baryas/school-database-management/assets/141733993/35748687-2c52-4080-a675-cd82431b439b)
 
 Project Description : 
 
